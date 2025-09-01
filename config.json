@@ -1,0 +1,25 @@
+{
+    "api_id": "28297407",
+    "api_hash": "f1001236427d3ef28f87f5421ff4fce3",
+    "phone_number": "+66842303011",
+    "forbidden_words": [
+      "has sent a",
+      "a Spam",
+      "Link without authorization.",
+      "aSpDASDADADam",
+      "aSADADASDApam",
+      "aSDASDASDpam",
+      "aSpAASaASDASDASDm",
+      "aSpaASDASDASDm",
+      "aSpSDAZam",
+      "aSpASDAAam",
+      "aSpASDAam",
+      "aSpSADASDXam",
+      "aSpSDAADam",
+      "aSpZXCZXCam",
+      "aSpDADam",
+      "aSpZXCZXCam",
+      "aZXCZXCZXCpam"
+    ]
+  }
+  
